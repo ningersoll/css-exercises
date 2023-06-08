@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.header {
+  display:flex;
+  justify-content:center
+}
+
+.items {
+  display:flex;
+  justify-content:center;
+}
+
+.item {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  padding: 40px;
+  max-width:200px
+
+}
